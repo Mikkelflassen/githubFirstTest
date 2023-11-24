@@ -1,13 +1,9 @@
-# githubFirstTest
-This will be my first Github repository and the beginning to my software engineer journey going from a non tech person to full-stack 
-
-
 <!DOCTYPE HTML>
-<!--
-	If you read you are checking if i coded this myself
+/*
+// If you read you are checking if i coded this myself
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+--> */
 
 <html>
 	<head>
@@ -24,7 +20,7 @@ This will be my first Github repository and the beginning to my software enginee
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Portfolio fra <br />
+						<h1>Portfolio by <br />
 						Mikkel Lassen</h1>
 						<p>Product manager skilled in segmentation, product discovery, budgetting, and Research togehter with the basics of Python, HTML, NoCode, and SQL. <li> First product to showcase is this site.<li> </a> Check out my LinkedIn <a href="https://www.linkedin.com/in/mikkel-friis-lassen-16941a236/">@Mikkel Lassen
 						<ul class="actions">
